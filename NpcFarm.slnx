@@ -1,0 +1,4 @@
+<Solution>
+  <Project Path="NpcFarm.csproj" />
+  <Project Path="tests/NpcFarm.Tests.csproj" />
+</Solution>
