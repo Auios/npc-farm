@@ -1,0 +1,15 @@
+.venv/
+__pycache__/
+*.pyc
+.DS_Store
+bin/
+obj/
+*.user
+*.suo
+.idea/
+.vs/
+models/
+data/
+*.log
+.huggingface/
+hf_cache/
